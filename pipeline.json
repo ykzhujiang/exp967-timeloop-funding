@@ -1,0 +1,29 @@
+{
+  "project": "exp967-timeloop-funding",
+  "created_at": "2026-04-07T02:17:52.447118+00:00",
+  "github_repo": "ykzhujiang/exp967-timeloop-funding",
+  "config": {
+    "theme": "无限路演：每死一次融资技能+1。现代都市，AI创业者林昊在融资路演失败后陷入时间循环——每次失败系统面板自动升级一项技能。三次循环压缩：Loop1忘词崩溃→系统升级口才，Loop2被竞品问题难住→升级商业洞察，Loop3全通但被问如果不投怎么办→林昊说再来一次→解锁隐藏技能真诚Lv∞。赵总第一次笑了说投了，但系统弹出警告：循环未终止，下一关合伙人背叛。幽默来自循环机制本身：社恐发作、系统吐槽、技能突然生效的自我惊讶。喜剧×科幻×系统文×创业四重融合。",
+    "genre": "comedy",
+    "style": "realistic",
+    "duration": 100,
+    "characters": 2,
+    "setting": "中国·当代·都市",
+    "appearance": "east-asian"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
