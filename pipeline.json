@@ -11,10 +11,14 @@
     "setting": "中国·当代·都市",
     "appearance": "east-asian"
   },
-  "status": "not_started",
+  "status": "step1b_done",
   "steps": {
     "step1b": {
-      "status": "not_started"
+      "status": "done",
+      "started_at": "2026-04-07T02:18:05.001504+00:00",
+      "completed_at": "2026-04-07T02:18:53.280106+00:00",
+      "output": "storyboard.md",
+      "segment_count": 7
     },
     "step3": {
       "status": "not_started"
